@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Miguel Angel Cipriano</h1>
-<h3 align="center">Full Stack Developer</h3>
+# Hi, I'm Miguel Angel Cipriano
+## Full Stack Developer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## About me
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
