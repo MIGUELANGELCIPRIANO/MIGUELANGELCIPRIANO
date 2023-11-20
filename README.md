@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=16F713&random=false&width=435&lines=%22You+take+the+blue+pill...;the+story+ends%2C;you+wake+up+in+your+bed;and+believe+whatever;+you+want+to+believe.;You+take+the+red+pill...;you+stay+in+Wonderland%2C;and+I+show+you;how+deep+the+rabbit+hole+goes.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&random=false&width=435&lines=%22You+take+the+blue+pill...;the+story+ends%2C;you+wake+up+in+your+bed;and+believe+whatever;+you+want+to+believe.;You+take+the+red+pill...;you+stay+in+Wonderland%2C;and+I+show+you;how+deep+the+rabbit+hole+goes.%22)](https://git.io/typing-svg)
 
 ## About me
 
