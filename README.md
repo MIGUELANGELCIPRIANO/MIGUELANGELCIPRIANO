@@ -3,6 +3,14 @@
 
 ## About me
 
+Hello! my name is Miguel Angel Cipriano, resident of Buenos Aires, Argentina.
+I am a Full Stack Developer, with a background in database administration and web design.
+My journey in the programming world started with my participation in the Full Stack Developer Bootcamp at Henry, where I acquired solid skills in technologies such as Javascript, TypeScript, Next, Express, React, Redux, Sequelize and PostgreSQL. 
+Throughout this last year, I have applied these skills in practical projects, highlighting my analytical, problem solving and fast learning skills. In addition to my technical expertise, I bring strong soft skills such as adaptability, dedication, communication and empathy. 
+I am looking for an environment where I can contribute my passion for programming and be valued not only for my technical skills, but also for my commitment and contribution to the team.
+I strongly believe that personal satisfaction, well-being and a nurturing environment are equally important to achieve successful and rewarding growth.
+I'm very excited about the new opportunities that may arise and excited to continue building my career!
+
 ## Languages and Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
