@@ -1,14 +1,15 @@
+# Hi! I'm Miguel Angel
+
 ## About me
 
-Hello! my name is Miguel Angel Cipriano, resident in Buenos Aires, Argentina. <br />
 I'm a **Full Stack Developer**, with a background in database administration and web design.
 
-My path in the programming world started with my participation in Henry's Full Stack Developer Bootcamp, where I acquired solid           knowledge in technologies such as **Javascript**, **TypeScript**, **Next**, **Express**, **React**, **Redux**, **Sequelize** and **PostgreSQL**.
+My path in the programming world started with my participation in Henry's Full Stack Developer Bootcamp, where I acquired solid knowledge in technologies such as **Javascript**, **TypeScript**, **Next**, **Express**, **React**, **Redux**, **Sequelize** and **PostgreSQL**.
 
-Throughout this last year, I have applied these skills in hands-on projects, highlighting my analytical, problem solving and quick        learning skills. In addition to my technical expertise, I bring strong soft skills such as adaptability, dedication, communication and    empathy.
+Throughout this last year, I have applied these skills in hands-on projects, highlighting my analytical, problem solving and quick learning skills. In addition to my technical expertise, I bring strong soft skills such as adaptability, dedication, communication and empathy.
 
-I am looking for an environment where I can bring my passion for programming and be valued not only for my technical knowledge, but       also for my commitment and contribution to the team.
-I strongly believe that personal satisfaction, well-being and an enriching environment are equally important to achieve a satisfying      and rewarding growth.
+I am looking for an environment where I can bring my passion for programming and be valued not only for my technical knowledge, but also for my commitment and contribution to the team.
+I strongly believe that personal satisfaction, well-being and an enriching environment are equally important to achieve a satisfying and rewarding growth.
 
 I am very excited about the new opportunities that may arise and look forward to building my career.
 
