@@ -13,27 +13,31 @@ I strongly believe that personal satisfaction, well-being and an enriching envir
 
 I am very excited about the new opportunities that may arise and look forward to building my career.
 
+## GitHub Stats
+
+<div align="left">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=miguelangelcipriano&show_icons=true&theme=dark&hide_border=true&icon_color=fe4040" />
+</div>
+<div align="left">
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelangelcipriano&theme=dark&hide_border=true" />
+</div>
+
 ## Languages and Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="30" alt="sequelize logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
+  <img src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript&color=151515&logoColor=000&labelColor=fe4040">
+  <img src="https://img.shields.io/badge/-Node.JS-000?style=for-the-badge&logo=node.js&color=151515&logoColor=000&labelColor=fe4040">
+  <img src="https://img.shields.io/badge/-Express.JS-000?style=for-the-badge&logo=express&color=151515&logoColor=000&labelColor=fe4040">
+</div>
+<div align="left">
+  <img src="https://img.shields.io/badge/-Sequelize-000?style=for-the-badge&logo=sequelize&color=151515&logoColor=000&labelColor=fe4040">
+  <img src="https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql&color=151515&logoColor=000&labelColor=fe4040">
+</div>
+<div align="left">
+  <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&color=151515&logoColor=000&labelColor=fe4040">
+  <img src="https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=redux&color=151515&logoColor=000&labelColor=fe4040">
+</div>
+<div align="left">
+  <img src="https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&color=151515&logoColor=000&labelColor=fe4040">
+  <img src="https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&color=151515&logoColor=000&labelColor=fe4040">
 </div>
