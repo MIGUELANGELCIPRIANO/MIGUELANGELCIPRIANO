@@ -16,10 +16,7 @@ I am very excited about the new opportunities that may arise and look forward to
 ## GitHub Stats
 
 <div align="left">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=miguelangelcipriano&show_icons=true&theme=dark&hide_border=true&icon_color=fe4040" />
-</div>
-<div align="left">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelangelcipriano&theme=dark&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=miguelangelcipriano&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_border=true&title_color=fe4040&text_color=fff&icon_color=fe4040" />
 </div>
 
 ## Languages and Tools
@@ -40,4 +37,7 @@ I am very excited about the new opportunities that may arise and look forward to
 <div align="left">
   <img src="https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&color=151515&logoColor=000&labelColor=fe4040">
   <img src="https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&color=151515&logoColor=000&labelColor=fe4040">
+</div>
+<div align="left">
+  <img src="https://img.shields.io/badge/-GIT-000?style=for-the-badge&logo=git&color=151515&logoColor=000&labelColor=fe4040">
 </div>
