@@ -1,7 +1,7 @@
 # Hi, I'm Miguel Angel
 
 <div>
-  <img width="46%" align="right" src="https://i.postimg.cc/PqdMQ71H/BLACK-MOON.jpg" />
+  <img width="50%" align="right" src="https://i.postimg.cc/PqdMQ71H/BLACK-MOON.jpg" />
 </div>
 
 I'm a **Full Stack Developer**, with a background in database administration and web design.
