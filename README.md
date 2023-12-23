@@ -1,7 +1,7 @@
 # Hi, I'm Miguel Angel
 
 <div>
-  <img align="right" src="https://i.postimg.cc/PqdMQ71H/BLACK-MOON.jpg" />
+  <img width="45%" align="right" src="https://i.postimg.cc/PqdMQ71H/BLACK-MOON.jpg" />
 </div>
 
 I'm a **Full Stack Developer**, with a background in database administration and web design.
@@ -16,7 +16,7 @@ I strongly believe that personal satisfaction, well-being and an enriching envir
 I am very excited about the new opportunities that may arise and look forward to building my career.  
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=miguelangelcipriano&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&title_color=fe4040&text_color=fff&icon_color=fe4040&border_color=3B4048" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=miguelangelcipriano&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&title_color=fe4040&text_color=fff&icon_color=fe4040&border_color=3B4048" />
 </div>
 
 ##
