@@ -32,6 +32,8 @@ I am very excited about the new opportunities that may arise and look forward to
 <div align="left">
   <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&color=151515&logoColor=000&labelColor=fe4040">
   <img src="https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=redux&color=151515&logoColor=000&labelColor=fe4040">
+</div>
+<div align="left">
   <img src="https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&color=151515&logoColor=000&labelColor=fe4040">
   <img src="https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&color=151515&logoColor=000&labelColor=fe4040">
   <img src="https://img.shields.io/badge/-GIT-000?style=for-the-badge&logo=git&color=151515&logoColor=000&labelColor=fe4040">
