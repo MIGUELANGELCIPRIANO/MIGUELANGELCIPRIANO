@@ -6,7 +6,7 @@
 
 I'm a **Full Stack Developer**, with a background in database administration and web design.
 
-My path in the programming world started with my participation in Henry's Full Stack Developer Bootcamp, where I acquired solid knowledge in technologies such as **Javascript**, **Node**, **Express**, **React**, **Redux**, **Sequelize** and **PostgreSQL**.
+My path in the programming world started with my participation in Henry's Full Stack Developer Bootcamp, where I acquired solid knowledge in technologies such as **Javascript**, **Node.js**, **Express.js**, **Sequelize**, **PostgreSQL**, **React**, **Redux**, **HTML**, **CSS** and **Git**.
 
 Throughout this last year, I have applied these skills in hands-on projects, highlighting my analytical, problem solving and quick learning skills. In addition to my technical expertise, I bring strong soft skills such as adaptability, dedication, communication and empathy.
 
