@@ -1,7 +1,3 @@
-<div>
-  <img width="100%" src="https://i.postimg.cc/rs8SvF62/ELEPHANTS.jpg" />
-</div>
-
 ```js
 CREATE DATABASE MiguelAngel;
 ```
