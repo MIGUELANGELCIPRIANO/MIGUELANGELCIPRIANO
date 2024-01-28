@@ -17,11 +17,11 @@ INSERT INTO Profile(name, about, stats, technologies)
   VALUES( ...
 ```
 
-## 'Hola! mi nombre es Miguel Angel',
+## Hola! mi nombre es Miguel Angel
 
-'Soy desarrollador full stack enfocado en el desarrollo Back-End, con formación en administración de bases de datos y diseño web. <br />
+Soy desarrollador full stack enfocado en el desarrollo Back-End, con formación en administración de bases de datos y diseño web. <br />
 En el 2022 comencé mi viaje en el mundo de la programación con el sueño de crecer como profesional dentro de la industria del desarrollo de software. <br />
-Actualmente me encuentro perfeccionando mis conocimientos en Node.js, PostgreSQL, Express.js y Sequelize, a través de proyectos individuales en JavaScript, para posteriormente incorporar TypeScript, entre otras tecnologías, a mis habilidades',
+Actualmente me encuentro perfeccionando mis conocimientos en Node.js, PostgreSQL, Express.js y Sequelize, a través de proyectos individuales en JavaScript, para posteriormente incorporar TypeScript, entre otras tecnologías, a mis habilidades.
 
 <br />
 
