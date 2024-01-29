@@ -21,15 +21,13 @@ INSERT INTO Profile(name, about, stats, technologies)
 
 Soy desarrollador full stack enfocado en el desarrollo Back-End, con formación en administración de bases de datos y diseño web. <br />
 En el 2022 comencé mi viaje en el mundo de la programación con el sueño de crecer como profesional dentro de la industria del desarrollo de software. <br />
-Actualmente me encuentro perfeccionando mis conocimientos en Node.js, PostgreSQL, Express.js y Sequelize, a través de proyectos individuales en JavaScript, para posteriormente incorporar TypeScript, entre otras tecnologías, a mis habilidades.
-
-</br>
+Actualmente me encuentro perfeccionando mis conocimientos en Node.js, PostgreSQL, Express.js y Sequelize, a través de proyectos individuales en JavaScript, para posteriormente incorporar TypeScript, entre otras tecnologías, a mis habilidades. <br />
 
 <div align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=miguelangelcipriano&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&title_color=2279BD&text_color=fff&icon_color=2279BD&border_color=3B4048" />
 </div>
 
-</br>
+<br />
 
 <div align="left">
   <img src="https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript&color=151515&logoColor=000&labelColor=2279BD">
