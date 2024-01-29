@@ -25,10 +25,6 @@ Actualmente me encuentro perfeccionando mis conocimientos en Node.js, PostgreSQL
 
 </br>
 
-<div>
-  <img width="49%" align="right" src="https://i.postimg.cc/wTbsk8Gq/PSQL.png" />
-</div>
-
 <div align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=miguelangelcipriano&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&title_color=2279BD&text_color=fff&icon_color=2279BD&border_color=3B4048" />
 </div>
