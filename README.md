@@ -19,9 +19,9 @@ INSERT INTO Profile(name, about, stats, technologies)
 
 ## Hola! mi nombre es Miguel Angel
 
-Soy desarrollador full stack enfocado en el desarrollo Back-End, con formación en administración de bases de datos y diseño web. <br />
-En el 2022 comencé mi viaje en el mundo de la programación con el sueño de crecer como profesional dentro de la industria del desarrollo de software. <br />
-Actualmente me encuentro perfeccionando mis conocimientos en Node.js, PostgreSQL, Express.js y Sequelize, a través de proyectos individuales en JavaScript, para posteriormente incorporar TypeScript, entre otras tecnologías, a mis habilidades. 
+Soy un desarrollador full stack con enfoque en el desarrollo Back-End, con formación en administración de bases de datos y diseño web. <br />
+En 2022, inicié mi trayectoria en el fascinante mundo de la programación con el sueño de crecer como profesional dentro de la industria del desarrollo de software. <br />
+Actualmente, me encuentro inmerso en proyectos en JavaScript que abarcan tecnologías como Node.js, PostgreSQL, Express.js y Sequelize, entre otras, ampliando constantemente mis habilidades y conocimientos. 
 
 <br />
 
