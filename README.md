@@ -17,11 +17,11 @@ INSERT INTO Profile(name, about, stats, technologies)
   VALUES( ...
 ```
 
-## Hola! mi nombre es Miguel Angel
+## Hi! my name is Miguel Angel
 
-Soy un desarrollador full stack con enfoque en el desarrollo Back-End, con formación en administración de bases de datos y diseño web. <br />
-En 2022, inicié mi trayectoria en el fascinante mundo de la programación con el sueño de crecer como profesional dentro de la industria del desarrollo de software. <br />
-Actualmente, me encuentro inmerso en proyectos en JavaScript que abarcan tecnologías como Node.js, PostgreSQL, Express.js y Sequelize, entre otras, ampliando constantemente mis habilidades y conocimientos. 
+I am a full stack developer with a focus on Back-End development, with a background in database administration and web design. <br />
+In 2022, I started my journey in the fascinating world of programming with the dream of growing as a professional in the software development industry. <br />
+Currently, I am immersed in JavaScript projects involving technologies such as Node.js, PostgreSQL, Express.js and Sequelize, among others, constantly expanding my skills and knowledge.
 
 <br />
 
