@@ -39,7 +39,7 @@ Currently, I am immersed in projects with JavaScript, Node.js, Express.js, React
   <img src="https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql&color=151515&logoColor=000&labelColor=2279BD">
 </div>
 <div align="left">
-  <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&color=151515&logoColor=000&labelColor=2279BD">
+  <img src="https://img.shields.io/badge/-React.JS-000?style=for-the-badge&logo=react&color=151515&logoColor=000&labelColor=2279BD">
   <img src="https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=redux&color=151515&logoColor=000&labelColor=2279BD">
   <img src="https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&color=151515&logoColor=000&labelColor=2279BD">
   <img src="https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&color=151515&logoColor=000&labelColor=2279BD">
