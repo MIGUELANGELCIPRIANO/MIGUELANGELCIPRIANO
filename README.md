@@ -19,8 +19,8 @@ INSERT INTO Profile(name, about, stats, technologies)
 
 ## Hi! my name is Miguel Angel
 
-I am a full stack developer, with a background in databases and web design.
-In 2022, I started my journey in the fascinating world of programming with the dream of growing as a professional in the software development industry.
+I am a full stack developer, with a background in databases and web design. <br />
+In 2022, I started my journey in the fascinating world of programming with the dream of growing as a professional in the software development industry. <br />
 Currently, I am immersed in projects with JavaScript, Node.js, Express.js, React.js and SQL, among other technologies, with the goal of continuing to expand my stack.
 
 <br />
