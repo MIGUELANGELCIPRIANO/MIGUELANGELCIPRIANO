@@ -43,5 +43,6 @@ Currently, I am immersed in projects with JavaScript, Node.js, Express.js, React
   <img src="https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=redux&color=151515&logoColor=000&labelColor=2279BD">
   <img src="https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&color=151515&logoColor=000&labelColor=2279BD">
   <img src="https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&color=151515&logoColor=000&labelColor=2279BD">
-  <img src="https://img.shields.io/badge/-GIT-000?style=for-the-badge&logo=git&color=151515&logoColor=000&labelColor=2279BD">
+  <img src="https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&color=151515&logoColor=000&labelColor=2279BD">
+  <img src="https://img.shields.io/badge/-GIT-000?style=for-the-badge&logo=git&color=151515&logoColor=000&labelColor=2279BD">  
 </div>
