@@ -22,7 +22,7 @@ INSERT INTO(name, about, stats, technologies)
 I'm web designer and webflow developer. <br />
 I offer custom web designs, responsive webdesigns, logo designs, brand design & development and custom illustrations. <br />
 Need a website? <br />
-I work remotely and freelance. <br />
+I work remotely and freelance.
 
 <br />
 
