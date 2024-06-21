@@ -19,7 +19,10 @@ INSERT INTO(name, about, stats, technologies)
 
 ## MIGUEL ANGEL
 
-Full stack developer with a background in databases and web design. <br />
+I'm web designer and webflow developer. <br />
+I offer custom web designs, responsive webdesigns, logo designs, brand design & development and custom illustrations. <br />
+Need a website? <br />
+I work remotely and freelance. <br />
 
 <br />
 
