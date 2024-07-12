@@ -20,7 +20,7 @@ INSERT INTO(name, about, stats, technologies)
 ## MIGUEL ANGEL
 
 I'm web designer and webflow developer. <br />
-I offer custom web designs, responsive webdesigns, logo designs, brand design & development and custom illustrations. <br />
+I offer custom web designs, responsive web designs, logo designs, brand design & development and custom illustrations. <br />
 Need a website? <br />
 I work remotely and freelance.
 
