@@ -38,11 +38,14 @@ I work remotely and freelance.
   <img src="https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql&color=151515&logoColor=000&labelColor=ff7b72">
 </div>
 <div align="left">
+  <img src="https://img.shields.io/badge/-WordPress-000?style=for-the-badge&logo=wordpress&color=151515&logoColor=000&labelColor=ff7b72">
+  <img src="https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&color=151515&logoColor=000&labelColor=ff7b72">
+  <img src="https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&color=151515&logoColor=000&labelColor=ff7b72">
+  <img src="https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap&color=151515&logoColor=000&labelColor=ff7b72">
+  <img src="https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&color=151515&logoColor=000&labelColor=ff7b72">
+</div>
+<div align="left">
+  <img src="https://img.shields.io/badge/-GIT-000?style=for-the-badge&logo=git&color=151515&logoColor=000&labelColor=ff7b72">
   <img src="https://img.shields.io/badge/-React.JS-000?style=for-the-badge&logo=react&color=151515&logoColor=000&labelColor=ff7b72">
   <img src="https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=redux&color=151515&logoColor=000&labelColor=ff7b72">
-  <img src="https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&color=151515&logoColor=000&labelColor=ff7b72">
-  <img src="https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap&color=151515&logoColor=000&labelColor=ff7b72">
-    <img src="https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&color=151515&logoColor=000&labelColor=ff7b72">
-  <img src="https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&color=151515&logoColor=000&labelColor=ff7b72">
-  <img src="https://img.shields.io/badge/-GIT-000?style=for-the-badge&logo=git&color=151515&logoColor=000&labelColor=ff7b72">  
 </div>
